@@ -14,6 +14,7 @@ Quickstart
 ********************************
 
 .. code-block:: python3
+    :linenos:
 
     from frontapp import Front
 
