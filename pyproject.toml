@@ -5,8 +5,7 @@ description = ""
 authors = ["MB <mb@blaster.ai>"]
 license = "MIT"
 readme='README.rst'
-homepage='https://github.com/Blasterai/codaio'
-documentation='https://codaio.readthedocs.io/en/latest/index.html'
+homepage='https://github.com/Blasterai/frontapp'
 
 [tool.poetry.dependencies]
 python = "^3.7"
