@@ -1,8 +1,12 @@
 [tool.poetry]
 name = "FrontApp"
-version = "0.1.0"
+version = "0.1.1"
 description = ""
-authors = ["MB <mb@m1k.pw>"]
+authors = ["MB <mb@blaster.ai>"]
+license = "MIT"
+readme='README.rst'
+homepage='https://github.com/Blasterai/codaio'
+documentation='https://codaio.readthedocs.io/en/latest/index.html'
 
 [tool.poetry.dependencies]
 python = "^3.7"
